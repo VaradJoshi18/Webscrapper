@@ -6,13 +6,13 @@
 
 ## Table of Contents
 
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Customization](#customization)
-- [Disclaimer](#disclaimer)
+- [Features](#features-)
+- [Requirements](#requirements-)
+- [Installation](#installation-)
+- [Usage](#usage-)
+- [How It Works](#how-it-works-)
+- [Customization](#customization-)
+- [Disclaimer](#disclaimer-)
 
 ---
 
